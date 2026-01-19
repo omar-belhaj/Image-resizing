@@ -20,5 +20,5 @@ Après plusieurs centaines d’itérations, l’image est réduite significative
 ### Avant
 ![Image originale](images/original.png)
 
-### Après
+### Après 300 suppression de 300 seams
 ![Image redimensionnée](images/tunisia300k.png)
