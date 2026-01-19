@@ -15,10 +15,14 @@ L’algorithme suit quatre étapes principales :
 
 Après plusieurs centaines d’itérations, l’image est réduite significativement en largeur tout en conservant les éléments visuellement importants (visages, corps, structures principales), illustrant l’efficacité de l’approche basée sur les graphes.
 
+Pour plus de détails sur l'implémentation, consultez :
+- **[Rapport](rapport.pdf)** - Explication théorique et analyse des résultats
+- **[Notebook Jupyter](image resizing.ipynb)** - Code interactif avec visualisations
+
 ## Résultat
 
 ### Avant
 ![Image originale](images/original.png)
 
-### Après 300 suppression de 300 seams
+### Après suppression de 300 seams
 ![Image redimensionnée](images/tunisia300k.png)
