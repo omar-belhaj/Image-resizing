@@ -17,12 +17,12 @@ Après plusieurs centaines d’itérations, l’image est réduite significative
 
 Pour plus de détails sur l'implémentation, consultez :
 - **[Rapport](rapport.pdf)** - Explication théorique et analyse des résultats
-- **[Notebook Jupyter](image resizing.ipynb)** - Code interactif avec visualisations
+- **[Notebook Jupyter](image%20resizing.ipynb)** - Code interactif avec visualisations
 
 ## Résultat
 
-### Avant
+### Avant : 1200 x 675 pixels
 ![Image originale](images/original.png)
 
-### Après suppression de 300 seams
+### Après suppression de 300 seams : 900 x 675 pixels
 ![Image redimensionnée](images/tunisia300k.png)
